@@ -1,0 +1,3 @@
+```html
+<h3 class="text-primary text-center">JQuery Playground</h3>
+```
